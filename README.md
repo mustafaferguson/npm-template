@@ -18,7 +18,7 @@
   
 [![Package Version](https://img.shields.io/npm/v/package-template?label=%20&style=for-the-badge)](https://www.npmjs.com/package/package-template)
 [![Package Monthly Downloads](https://img.shields.io/npm/dm/package-template?color=blue&label=%20&style=for-the-badge)](https://www.npmjs.com/package/package-template)
-[![Docs](https://img.shields.io/badge/-Docs-blue.svg?style=for-the-badge)](https://github.com/nurodev/package-template)
+[![Docs](https://img.shields.io/badge/-Docs-blue.svg?style=for-the-badge)](https://github.com/earlybot/package-template)
 
   </sup>
   <br />
